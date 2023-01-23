@@ -1,0 +1,1 @@
+./getting-started/src/main/docker/Dockerfile.jvm
